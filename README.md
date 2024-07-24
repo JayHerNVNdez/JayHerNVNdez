@@ -13,8 +13,8 @@ Growing with technology, and advancing with it in my life created a passion for 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOAR EDR Project                              | EDR Lab|
-| Incident Resonse and Remediation Project      | IDR Lab|
+| Incident Resonse and Remediation Project                          | IDR Lab|
+|                                               | |
 |                                               | |
 |                                               | |
 |                                               | |
@@ -48,7 +48,6 @@ Growing with technology, and advancing with it in my life created a passion for 
 </div>
 
 ## Projects
-- SOAR EDR Project
 - Incident Resonse and Remediation Project
 <!--
 **JayHerNVNdez/JayHerNVNdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
