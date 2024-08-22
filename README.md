@@ -14,7 +14,7 @@ Growing with technology, and advancing with it in my life created a passion for 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Incident Resonse and Remediation Project                          | IDR Lab|
-|                                               | |
+| Business Continuty Project                                        |Research/Lab |
 |                                               | |
 |                                               | |
 |                                               | |
@@ -49,8 +49,5 @@ Growing with technology, and advancing with it in my life created a passion for 
 
 ## Projects
 - Incident Resonse and Remediation Project
-<!--
-**JayHerNVNdez/JayHerNVNdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Business Continuty Project
 
-
--->
